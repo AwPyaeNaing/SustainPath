@@ -28,7 +28,9 @@ img {
     font-weight: bold;
     cursor: pointer;
 }
-
+.btn-orange a{
+    text-decoration: none;
+}
 .btn-orange:hover {
     opacity: 0.9;
 }
